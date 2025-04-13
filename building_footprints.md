@@ -2,12 +2,9 @@
 cover-image: https://github.com/user-attachments/assets/736dfcf6-0de4-429f-95a4-17ee496fdede
 ---
 
-# Building Stock Update: Smart City Infrastructure Monitoring
-## Introduction
+# Building Stock Update: Smart City Infrastructure Monitoring <!--{ as="img" mode="hero" src="![ubicube](https://github.com/user-attachments/assets/a24652c2-adb0-47c9-8e50-3dbc9edaf220)" }-->
+
 The GTIF Building Footprints service provides a comprehensive solution for monitoring and analyzing urban infrastructure through satellite-based observation. This service delivers up-to-date, spatially and temporally consistent building data, serving as a fundamental component for Smart City solutions.
-
-
-![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-01.png)
 
 ## Service Overview
 The Building Footprints service combines advanced satellite imagery analysis with sophisticated data processing to provide accurate, timely information about urban development and infrastructure changes. Key features include:
